@@ -36,7 +36,7 @@ As for what is implemented, expect that some things may be a little broken at fi
 
 ### Installation
 
-Detailed installation instructions are coming soon, along with prebuilt wheels. For the time being, start by making sure you have the appropriate version of [PyTorch](https://pytorch.org/get-started/locally/) installed (CUDA 12.4 or later). Then:
+Detailed installation instructions are coming soon, along with prebuilt wheels. For the time being, start by making sure you have the appropriate version of [PyTorch](https://pytorch.org/get-started/locally/) installed (CUDA 12.6 or later). Then:
 
 ```sh
 # Full installation
